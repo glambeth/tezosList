@@ -14,3 +14,4 @@
 
 [Michelson technical video](https://www.youtube.com/watch?v=4oG4Ead74xA) 
 
+[Daily Michelson Examples](http://www.michelson-lang.com/)
